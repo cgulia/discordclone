@@ -6,10 +6,6 @@
 
 `single line code block`
 
-```js
-multiline code block
-```
-
 *italic*
 
 **bold**
