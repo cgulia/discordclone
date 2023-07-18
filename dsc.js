@@ -34,8 +34,4 @@ function formatmessage(data, arg, rm) {
             });
         });
     });
-
-    promise.then(function () {
-        console.log('Loop finished.');
-    });
 }
