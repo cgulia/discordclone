@@ -1,1 +1,3 @@
-fetch, format and post external .md (or any other file) to discord
+fetch, format and post external .md to discord
+
+![](https://raw.githubusercontent.com/cgulia/discordmdfetch/main/img/example.png)
