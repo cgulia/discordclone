@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/cgulia/discordclone/main/img/imagesample.png)
+![alt text](https://raw.githubusercontent.com/cgulia/discordclone/main/img/imageheader.png)
 
 ### header 3
 ## header 2
