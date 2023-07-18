@@ -1,3 +1,6 @@
+const axios = require("axios");
+const https = require('https');
+
 async function fetchmd(arg, rm) {
     try {
         const { data } = await axios.get(arg[0]);
