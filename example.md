@@ -9,12 +9,12 @@
 `single line code block`
 
 *italic*
+
 **bold**
+
 ~~strikethrough~~
 
 |`send`
-
-double breakline
 
 <:ixeric:1083350609266229320> external emoji
 
