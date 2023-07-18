@@ -12,8 +12,6 @@
 **bold**
 ~~strikethrough~~
 
-|`send`
-
 <:ixeric:1083350609266229320> external emoji
 
 |`send`
