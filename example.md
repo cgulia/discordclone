@@ -7,7 +7,6 @@
 |`send`
 
 `single line code block`
-
 *italic*
 **bold**
 ~~strikethrough~~
